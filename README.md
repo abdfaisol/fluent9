@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Actual Behavior
+During a brand new minimal installation of Fluent Ui v9 on a brand,  I got the peer dependency overrides decribed below.
+Commands I've run before these warning messages:
+
+> npm install
+> npm install @fluentui/react-components
+
+## Expected Behavior
+Warning messages related to peer dependencies conflicts and overrides.
 
 ## Available Scripts
 
