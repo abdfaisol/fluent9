@@ -6,7 +6,7 @@ During a brand new minimal installation of Fluent Ui v9 on a brand,  I got the p
 Commands I've run before these warning messages:
 
 > npm install
-> npm install @fluentui/react-components
+`> npm install @fluentui/react-components`
 
 ## Expected Behavior
 Warning messages related to peer dependencies conflicts and overrides.
